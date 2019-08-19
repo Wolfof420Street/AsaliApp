@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "186537929384",
+    "firebase_url": "https://asali-46be9.firebaseio.com",
+    "project_id": "asali-46be9",
+    "storage_bucket": "asali-46be9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186537929384:android:4bfb8033fb2ea225",
+        "android_client_info": {
+          "package_name": "com.wolf.asaliapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186537929384-cdi3ea2jog4pgop5bo9boscf85md2ie2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wolf.asaliapp",
+            "certificate_hash": "897d14a530b60bc8dded7f14f1b4e69af85d222d"
+          }
+        },
+        {
+          "client_id": "186537929384-pq0t2m3ubbtng16tt248i3go4rm5jic7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCga3wfBc4jrDN7BzuxC070wKfoOzs0aEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186537929384-pq0t2m3ubbtng16tt248i3go4rm5jic7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
